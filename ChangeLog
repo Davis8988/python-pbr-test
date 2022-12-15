@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Added compiling scripts
 * Added AUTHORS & ChangeLog files
 * Added setup.cfg
 * def say\_hi():     print("Hello")
