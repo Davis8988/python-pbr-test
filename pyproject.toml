@@ -1,0 +1,6 @@
+[build-system]
+requires = ["pbr>=5.7.0", "setuptools>=36.6.0"]
+build-backend = "pbr.build"
+
+# [project]
+# name = "example_package_YOUR_USERNAME_HERE"
