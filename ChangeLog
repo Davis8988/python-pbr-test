@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Added script: pip\\_complete\_upgrade\_flow.bat
 * Added compiling scripts
 * Added AUTHORS & ChangeLog files
 * Added setup.cfg
