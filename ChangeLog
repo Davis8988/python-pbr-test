@@ -1,6 +1,7 @@
 CHANGES
 =======
 
+* Updated more metadata details on package in setup.cgf file
 * Fixed typo
 * Added script: pip\\_complete\_upgrade\_flow.bat
 * Added compiling scripts
