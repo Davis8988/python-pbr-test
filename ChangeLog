@@ -1,0 +1,8 @@
+CHANGES
+=======
+
+* Added setup.cfg
+* def say\_hi():     print("Hello")
+* added launch.json file
+* Added setup.py & pyproject.toml files
+* Initial commit
